@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  align-items: center;
+  justify-content: center;
+  font-family: "Bungee Shade", cursive;
+  background-image: url("uncle.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content_box {
+  align-items: center;
+  border: 1px solid grey(22, 22, 21);
+  background-color: rgb(244, 106, 52);
+  border-radius: 5px;
+  height: 220px;
+  width: 30%;
+  margin: 200px 580px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input {
+  height: 40px;
+  color: green;
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+  width: 190px;
+  border: 1px grey;
+  border-radius: 5px;
+  margin: 10px 15px;
+  font-size: 20px;
+}
+input:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+button {
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+  height: 40px;
+  width: 190px;
+  color: grey;
+  border: 1px grey;
+  border-radius: 5px;
+  margin: 15px;
+  font-size: 20px;
+}
+button:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#content {
+  color: rgb(240, 230, 230);
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+  font-size: 20px;
+  width: 80%;
+}
+h1 {
+  font-size: 35px;
+  text-shadow: 0 8px 16px 0 rgba(223, 213, 213, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: rgb(216, 211, 211);
+
+  font-size: 35px;
+  color: #f5f5f5;
+  text-shadow: 1px 1px 1px #919191, 1px 2px 1px #919191, 1px 3px 1px #919191,
+    1px 4px 1px #919191, 1px 5px 1px #919191, 1px 6px 1px #919191,
+    1px 7px 1px #919191, 1px 8px 1px #919191, 1px 9px 1px #919191,
+    1px 10px 1px #919191, 1px 18px 6px rgba(16, 16, 16, 0.4),
+    1px 22px 10px rgba(16, 16, 16, 0.2), 1px 25px 35px rgba(16, 16, 16, 0.2),
+    1px 30px 60px rgba(16, 16, 16, 0.4);
+}
+section {
+  width: 40%;
+  float: left;
+}
