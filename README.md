@@ -4,7 +4,7 @@ The website enables you to enter the crypto currency code  and it will return th
 
 I completed the challenge: 5
 I feel good about my code: 4
-![screeshotproject.jpeg](screeshotproject.jpeg)
+![screeshotproject.png](screeshotproject.png)
 
 
 
